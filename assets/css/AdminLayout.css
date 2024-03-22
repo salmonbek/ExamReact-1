@@ -1,0 +1,10 @@
+siderbar {
+  position: sticky;
+  top: 0%;
+  left: 0;
+  bottom: 0;
+  height: 100vh;
+  padding-right: 25px;
+  padding-left: 25px;
+  background: #5b5ce2;
+}

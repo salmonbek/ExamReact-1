@@ -1,0 +1,12 @@
+.btns {
+  background-color: red;
+  width: 49px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  padding-right: 204px;
+  padding-left: 24px;
+  height: 100vh;
+  position: relative;
+  top: -80px;
+}

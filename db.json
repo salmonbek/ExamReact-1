@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "4374",
+      "name": "asdf",
+      "description": "asdf",
+      "brand": "asfd",
+      "artikul": "asdf",
+      "price": "asdf",
+      "discountPrice": "asdf"
+    },
+    {
+      "id": "355f",
+      "name": "salmonbek",
+      "description": "yaxshi",
+      "brand": "uzim",
+      "artikul": "nomi",
+      "price": "1000$",
+      "discountPrice": "200$"
+    },
+    {
+      "id": "13d2",
+      "name": "sally",
+      "description": "well",
+      "brand": "samsung",
+      "artikul": "121213",
+      "price": "99$",
+      "discountPrice": "#3332"
+    },
+    {
+      "id": "4268",
+      "name": "Iphone",
+      "description": "good",
+      "brand": "15",
+      "artikul": "212",
+      "price": "1100$",
+      "discountPrice": "800$"
+    },
+    {
+      "id": "29a0",
+      "name": "Xiomi",
+      "description": "so nice",
+      "brand": "12",
+      "artikul": "12212121",
+      "price": "300$",
+      "discountPrice": "10$"
+    }
+  ]
+}
