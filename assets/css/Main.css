@@ -32,12 +32,6 @@
 
 .header {
   position: sticky;
-  right: 0;
-  left: 0;
-  padding: 24px 0;
-  background-color: #fff;
-  z-index: -10;
-  top: 0;
 }
 .header .flex {
   display: -webkit-box;
