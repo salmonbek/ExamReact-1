@@ -44,6 +44,15 @@
       "artikul": "your",
       "price": "200$",
       "discountPrice": "100$"
+    },
+    {
+      "id": "2a26",
+      "name": "544556665",
+      "description": "gooooood",
+      "brand": "Iphone",
+      "artikul": "me",
+      "price": "dsdsd",
+      "discountPrice": "weew"
     }
   ]
 }
