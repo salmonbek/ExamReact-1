@@ -220,6 +220,9 @@ hr {
 }
 
 @media (max-width: 450px) {
+  .hero {
+    padding-left: 100px;
+  }
   .hero .container .hero-top .add-tovar {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -227,10 +230,6 @@ hr {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    margin-left: 70px;
-  }
-  .hero .container .hero-top .flex {
-    margin-left: 66px;
   }
   .hero .container .hero-top .flex input {
     margin-top: 20px;

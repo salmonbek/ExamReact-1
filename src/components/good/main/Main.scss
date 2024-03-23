@@ -209,15 +209,16 @@ hr {
 
 @media (max-width: 450px) {
   .hero {
+    padding-left: 100px;
     .container {
       .hero-top {
         .add-tovar {
           display: flex;
           justify-content: center;
-          margin-left: 70px;
+          // margin-left: 70px;
         }
         .flex {
-          margin-left: 66px;
+          // margin-left: 66px;
           input {
             margin-top: 20px;
           }
