@@ -31,14 +31,12 @@
 }
 
 .header {
-  margin-top: -750px;
   right: 0;
   left: 0;
-  padding: 24px;
+  padding: 24px 0;
   background-color: #fff;
   -webkit-box-shadow: 0px 0px 10px 2px grey;
           box-shadow: 0px 0px 10px 2px grey;
-  padding-left: 200px;
   z-index: -10;
   top: 0;
 }

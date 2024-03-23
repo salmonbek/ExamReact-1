@@ -22,13 +22,14 @@
 }
 
 .header {
-  margin-top: -750px;
+  // margin-top: -750px;
   right: 0;
   left: 0;
-  padding: 24px;
+  padding: 24px 0;
   background-color: #fff;
   box-shadow: 0px 0px 10px 2px grey;
-  padding-left: 200px;
+  // padding-left: 200px;
+  // background-color: red;
   z-index: -10;
   top: 0;
   .flex {
@@ -210,6 +211,7 @@ hr {
 @media (max-width: 450px) {
   .hero {
     padding-left: 100px;
+
     .container {
       .hero-top {
         .add-tovar {
