@@ -149,7 +149,6 @@ const Main = () => {
           </div>
         </div>
       </div>
-      <footer className="footer"></footer>
     </>
   );
 };

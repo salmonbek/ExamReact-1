@@ -144,6 +144,7 @@ hr {
       .flex {
         display: flex;
         align-items: center;
+        flex-wrap: wrap;
         justify-content: space-between;
         h3 {
           font-family: Mulish;
@@ -202,6 +203,26 @@ hr {
     }
     100% {
       transform: rotate(360deg);
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .hero {
+    .container {
+      .hero-top {
+        .add-tovar {
+          display: flex;
+          justify-content: center;
+          margin-left: 70px;
+        }
+        .flex {
+          margin-left: 66px;
+          input {
+            margin-top: 20px;
+          }
+        }
+      }
     }
   }
 }
